@@ -2,8 +2,8 @@
 
 ## Ramirez
 
-- lista 1
-- lista 2
+- Fecha: 6/29/26
+- Hora: 8:32pm
 
 **negrita**
 
